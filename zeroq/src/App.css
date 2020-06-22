@@ -1,0 +1,40 @@
+.App {
+  background-color: #1C2F57;
+}
+
+.App-logo {
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  top:0px;
+  position: fixed;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.sucursal-online {
+  background-color: rgb(28, 47, 87);
+  color: #FCFCFD;
+}
+.sucursal-offline{
+  background-color: rgb(226, 226, 226);
+  color:rgb(139, 139, 139);
+}
+.card{
+  height: "100%";
+  display: "flex";
+  flex-direction:"column";
+}
